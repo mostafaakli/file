@@ -1,0 +1,30 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  text-align: center;
+}
+
+
+
+.image-container{
+    text-align: center;
+}
+.images{
+    display: inline-block;
+}
+
+div {
+  background-image: url('1.png');
+  background-size: cover; /* remplit la div avec l'image */
+}
+
+
+
+
+h3{
+  text-align: left;
+}
+
+
